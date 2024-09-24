@@ -1,0 +1,6 @@
+Hello, world!
+This is a test file.
+It contains several lines of text.
+Each line will be read by the get_next_line function.
+Feel free to modify this content as you wish.
+
